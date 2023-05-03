@@ -1,8 +1,11 @@
 const express = require('express');
 const app = express();
-const port= 5000;
+const port = process.env.PORT || 5000;
 const chefs = require('./chefs.json')
 
+const cors = require('cors');
+
+app.use(cors());
 app.get('/', (req,res)=>{
     res.send("The chef-recipe server is running ")
 })
