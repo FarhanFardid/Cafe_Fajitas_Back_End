@@ -1,0 +1,43 @@
+[  {  "id": 1,   
+     "chef_name": "John Smith", 
+   "chef_image": "https://example.com/chef/john_smith.jpg",  
+     "chef_short_description": "Award-winning chef with a passion for fusion cuisine",    "years_of_experience": 15,  
+       "numbers_of_recipe": 50, 
+          "likes": 10000,   
+           "recipes": [      
+            {        "recipe_name": "Fusion Tacos",  
+                  "recipe_description": "A fusion of Mexican and Asian flavors, featuring marinated chicken, pickled vegetables, and a spicy peanut sauce.",   
+                       "recipe_image": "https://example.com/recipes/fusion_tacos.jpg"      },
+                             {        "recipe_name": "Spicy Seafood Linguine",     
+                                "recipe_description": "A spicy twist on classic linguine with clams, featuring shrimp, scallops, and a tomato-chili sauce.",   
+                                     "recipe_image": "https://example.com/recipes/spicy_seafood_linguine.jpg"      },    
+                                       {        "recipe_name": "Miso-Glazed Salmon",        "recipe_description": "Pan-seared salmon with a sweet and savory miso glaze, served with a side of roasted vegetables.",        
+                                       "recipe_image": "https://example.com/recipes/miso_glazed_salmon.jpg"      } 
+                                       ]
+  },
+  {"id":2,
+    "chef_name": "Maria Rodriguez",
+    "chef_image": "https://example.com/chef/maria_rodriguez.jpg",
+    "chef_short_description": "Expert in traditional Spanish cuisine with a modern twist",
+    "years_of_experience": 20,
+    "numbers_of_recipe": 30,
+    "likes": 5000,
+    "recipes": [
+      {
+        "recipe_name": "Paella Valenciana",
+        "recipe_description": "A classic Spanish rice dish featuring saffron, chicken, rabbit, and green beans.",
+        "recipe_image": "https://example.com/recipes/paella_valenciana.jpg"
+      },
+      {
+        "recipe_name": "Tortilla Española",
+        "recipe_description": "A traditional Spanish omelet made with potatoes, onions, and eggs.",
+        "recipe_image": "https://example.com/recipes/tortilla_espanola.jpg"
+      },
+      {
+        "recipe_name": "Gazpacho Andaluz",
+        "recipe_description": "A refreshing cold soup made with ripe tomatoes, cucumbers, and bell peppers.",
+        "recipe_image": "https://example.com/recipes/gazpacho_andaluz.jpg"
+      }
+    ]
+  }
+]
