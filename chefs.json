@@ -1,9 +1,9 @@
 [  {  "id": 1,   
      "chef_name": "John Smith", 
    "chef_image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",  
-     "chef_short_description": "Award-winning chef with a passion for mexican fusion cuisine",    "years_of_experience": 15,  
-       "numbers_of_recipe": 50, 
-          "likes": 10000,   
+     "chef_short_description": "Award-winning chef with a passion for mexican fusion cuisine",    "years_of_experience": 9,  
+       "numbers_of_recipe": 30, 
+          "likes": 7000,   
            "recipes":  [
             {
               "recipe_id": 1,
@@ -65,10 +65,10 @@
             
     },
   {"id":2,
-    "chef_name": "Maria Rodriguez",
+    "chef_name": "Julian",
     "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEdNNSvf5Trfnucfdsfw1laaKmt3_lH6v0g&usqp=CAU",
     "chef_short_description": "Expert in traditional Spanish cuisine with a modern twist",
-    "years_of_experience": 20,
+    "years_of_experience": 8,
     "numbers_of_recipe": 30,
     "likes": 5000,
     "recipes":  [
@@ -132,11 +132,11 @@
         
 },
   {  "id": 3,   
-  "chef_name": "John Ramsey", 
+  "chef_name": "G. Ramsey", 
 "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dpGjX0MDM8sfVPvMsnhMVWsd6_0Mgvft-Q&usqp=CAU",  
-  "chef_short_description": "Award-winning chef with a passion for mexican fusion cuisine",    "years_of_experience": 12,  
-    "numbers_of_recipe": 45, 
-       "likes": 7000,   
+  "chef_short_description": "Award-winning chef with a passion for mexican fusion cuisine",    "years_of_experience": 24,  
+    "numbers_of_recipe": 55, 
+       "likes": 9500,   
         "recipes":  [
             {
               "recipe_id": 1,
@@ -200,7 +200,7 @@
   {  "id": 4,   
 "chef_name": "Robert Clain", 
 "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJm2_Izxs7ZDpd7gs1DGi7Is3zvPJB-a9hg&usqp=CAU",  
-"chef_short_description": "Award-winning chef with a passion for mexican fusion cuisine",    "years_of_experience": 10,  
+"chef_short_description": "Award-winning chef with a passion for mexican fusion cuisine",    "years_of_experience": 13,  
   "numbers_of_recipe": 35, 
      "likes": 6000,   
       "recipes":  [
@@ -268,7 +268,7 @@
 "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A5YxKsosb7Wdm-w1GsgpfXjrqe4NYW7oxw&usqp=CAU",  
 "chef_short_description": "Award-winning chef with a passion for mexican fusion cuisine",    "years_of_experience": 11,  
   "numbers_of_recipe": 40, 
-     "likes": 9000,   
+     "likes": 6500,   
       "recipes": [
         {
           "recipe_id": 1,
@@ -333,9 +333,9 @@
     "chef_name": "Marry Anne",
     "chef_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4UfMKSWNHWAVAhMdz68Sbxt4yaNlv5zSmg&usqp=CAU",
     "chef_short_description": "Expert in traditional Spanish cuisine with a modern twist",
-    "years_of_experience": 8,
-    "numbers_of_recipe": 28,
-    "likes": 5000,
+    "years_of_experience": 12,
+    "numbers_of_recipe": 38,
+    "likes": 5500,
     "recipes":  [
         {
           "recipe_id": 1,
